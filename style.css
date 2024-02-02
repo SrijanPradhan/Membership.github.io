@@ -10,7 +10,7 @@ body {
   height :100vh;
   width: 100%;
   background-color: #000;
-  background-image : url("dogpic2.jpg");
+  background-image : url("dogpic1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
